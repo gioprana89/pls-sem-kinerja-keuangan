@@ -145,11 +145,25 @@ if pilih_publisher == ":rainbow[Taylor and Francis]":
     unsafe_allow_html=True)
 
 
+    st.markdown(
+    """<br><br><a href="https://www.tandfonline.com/doi/full/10.1080/23311975.2023.2232159#d1e1012">
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2023/2/1.png" width="900"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2023/2/2.png" width="800"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2023/2/3.png" width="1200"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2023/2/4.png" width="1200"><br>
+        </a>""",
+    unsafe_allow_html=True)
 
 
 
-
-
+    st.markdown(
+    """<br><br><a href="https://www.tandfonline.com/doi/full/10.1080/23311975.2023.2207880#abstract">
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2023/3/1.png" width="900"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2023/3/2.png" width="800"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2023/3/3.png" width="1200"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2023/3/4.png" width="1200"><br>
+        </a>""",
+    unsafe_allow_html=True)
 
 
 
@@ -168,6 +182,27 @@ if pilih_publisher == ":rainbow[Taylor and Francis]":
         <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2022/1/4.png" width="1200"><br>
         </a>""",
     unsafe_allow_html=True)
+
+
+    st.markdown(
+    """<br><br><br><a href="https://www.tandfonline.com/doi/full/10.1080/23311975.2022.2147123#abstract">
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2022/2/1.png" width="900"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2022/2/2.png" width="1200"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2022/2/3.png" width="1200"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2022/2/4.png" width="1200"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2022/2/5.png" width="1200"><br>
+        </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
     st.write('''<br><br><br><center><font color = "#0000ff" size = 7>2019</font></center>''', unsafe_allow_html = True)
     st.markdown(
     """<br><a href="https://www.tandfonline.com/doi/full/10.1080/23322039.2019.1589406#abstract">
@@ -184,6 +219,16 @@ if pilih_publisher == ":rainbow[Taylor and Francis]":
 
 
 
+
+
+    st.write('''<br><br><br><center><font color = "#0000ff" size = 7>2017</font></center>''', unsafe_allow_html = True)
+    st.markdown(
+    """<br><a href="https://www.tandfonline.com/doi/full/10.1080/23311975.2017.1364056#abstract">
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2017/1/1.png" width="900"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2017/1/2.png" width="800"><br>
+        <img src="https://statkomat.com/aplikasi-plsem-kinerjakeuangan-kinerjaperusahaan/taylor and francis/Cogent Economics & Finance/2017/1/3.png" width="1200"><br>
+        </a>""",
+    unsafe_allow_html=True)
 
 
 
